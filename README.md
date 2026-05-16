@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Kevin Henriquez 👋
 
-<!--
-**DevKevingg/DevKevingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer from the Canary Islands.
 
-Here are some ideas to get you started:
+I build backend systems, developer tools and business software with Java, Spring Boot and Maven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source
+
+### LogForge
+A modern Java logging toolkit published on Maven Central.
+
+- Smart Java error explanations
+- Source code frames
+- Suggested fixes
+- Clean console logging
+- Maven Central release
+
+## Tech Stack
+
+Java · Spring Boot · Maven · PostgreSQL · Redis · MongoDB · Docker · GitHub Actions
+
+## Links
+
+- Portfolio: https://kevinhenriquez.codes
+- Maven Central: https://central.sonatype.com/artifact/io.github.devkevingg/logforge
