@@ -27,3 +27,4 @@ Java · Spring Boot · Maven · PostgreSQL · Redis · MongoDB · Docker · GitH
 
 - Portfolio: https://kevinhenriquez.codes
 - Maven Central: https://central.sonatype.com/artifact/io.github.devkevingg/logforge
+- npm: https://www.npmjs.com/package/@khm-studio/safearea
